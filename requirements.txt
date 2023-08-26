@@ -1,5 +1,6 @@
 wget
-sklearn
+scikit-learn
+requests
 pandas
 seaborn
 matplotlib
